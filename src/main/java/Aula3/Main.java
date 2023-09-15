@@ -6,7 +6,7 @@ public class Main {
         // Instanciar objeto do tipo Conta
         Conta contaHumberto = new Conta();
         
-        contaHumberto.depositar(9.45);
+        contaHumberto.depositar(1000);
         contaHumberto.sacar(20);
         contaHumberto.sacar(800);
 
